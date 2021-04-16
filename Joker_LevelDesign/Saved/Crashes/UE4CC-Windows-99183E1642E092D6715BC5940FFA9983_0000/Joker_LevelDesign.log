@@ -1,0 +1,1373 @@
+﻿Log file open, 04/16/21 09:50:25
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Joker_LevelDesign
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.272370
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=Tiltux -epicuserid=000c40c1f302427fa1eb7f37ac5353a9 -epiclocale=es
+LogInit: Base Directory: D:/Program Files (x86)/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.16-07.50.26:447][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.16-07.50.26:447][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.16-07.50.26:447][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Engine.ini]
+[2021.04.16-07.50.26:447][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.16-07.50.26:447][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Engine.ini]
+[2021.04.16-07.50.26:447][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Engine.ini]
+[2021.04.16-07.50.26:447][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.16-07.50.26:447][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.16-07.50.26:447][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.16-07.50.26:447][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.16-07.50.26:447][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Engine.ini]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.04.16-07.50.26:448][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Engine.ini]
+[2021.04.16-07.50.26:448][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Engine.ini]
+[2021.04.16-07.50.26:470][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Scalability.ini]
+[2021.04.16-07.50.26:470][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.16-07.50.26:470][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.16-07.50.26:470][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Scalability.ini]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Scalability.ini]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Scalability.ini]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.16-07.50.26:471][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Scalability.ini]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Scalability.ini]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Scalability.ini]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Scalability.ini]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.16-07.50.26:472][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.16-07.50.26:472][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.16-07.50.26:472][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.16-07.50.26:472][  0]LogHAL: Display: Platform has ~ 16 GB [17007267840 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.16-07.50.26:473][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.16-07.50.26:473][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Scalability.ini]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Scalability.ini]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Scalability.ini]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Scalability.ini]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Scalability.ini]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.16-07.50.26:473][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Scalability.ini]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Scalability.ini]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Scalability.ini]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.16-07.50.26:474][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.16-07.50.26:475][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.16-07.50.26:475][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.16-07.50.26:475][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.16-07.50.26:475][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Github/Joker/Joker_LevelDesign/Saved/Config/Windows/Engine.ini]
+[2021.04.16-07.50.26:475][  0]LogInit: Computer: LAPTOP-GU04S301
+[2021.04.16-07.50.26:475][  0]LogInit: User: joanb
+[2021.04.16-07.50.26:475][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.04.16-07.50.26:475][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.16-07.50.26:475][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.04.16-07.50.26:475][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.16-07.50.26:475][  0]LogMemory: Process Physical Memory: 134.80 MB used, 134.81 MB peak
+[2021.04.16-07.50.26:475][  0]LogMemory: Process Virtual Memory: 118.56 MB used, 118.56 MB peak
+[2021.04.16-07.50.26:475][  0]LogMemory: Physical Memory: 7999.43 MB used,  8219.97 MB free, 16219.39 MB total
+[2021.04.16-07.50.26:475][  0]LogMemory: Virtual Memory: 134209976.00 MB used,  7750.60 MB free, 134217728.00 MB total
+[2021.04.16-07.50.26:484][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.16-07.50.26:541][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.16-07.50.26:542][  0]LogInit: Using OS detected language (es-ES).
+[2021.04.16-07.50.26:542][  0]LogInit: Using OS detected locale (es-ES).
+[2021.04.16-07.50.26:544][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2021.04.16-07.50.26:598][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.16-07.50.26:607][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.16-07.50.26:654][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.16-07.50.26:654][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.16-07.50.26:856][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.16-07.50.26:856][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.16-07.50.26:856][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.16-07.50.26:856][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.16-07.50.26:951][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX250' (Feature Level 11_0)
+[2021.04.16-07.50.26:951][  0]LogD3D11RHI:       1983/0/8109 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.04.16-07.50.26:977][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2021.04.16-07.50.26:977][  0]LogD3D11RHI:       128/0/8109 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.04.16-07.50.26:980][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.16-07.50.26:980][  0]LogD3D11RHI:       0/0/8109 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.16-07.50.26:980][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.16-07.50.26:985][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.16-07.50.26:985][  0]LogD3D11RHI:     GPU DeviceId: 0x1d52 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.16-07.50.26:985][  0]LogWindows: EnumDisplayDevices:
+[2021.04.16-07.50.26:985][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2021.04.16-07.50.26:986][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.04.16-07.50.26:986][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.04.16-07.50.26:986][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.04.16-07.50.26:986][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX250
+[2021.04.16-07.50.26:986][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.04.16-07.50.26:986][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.04.16-07.50.26:986][  0]LogRHI: Texture pool is 1388 MB (70% of 1983 MB)
+[2021.04.16-07.50.27:064][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.16-07.50.27:064][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.16-07.50.27:064][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.16-07.50.27:082][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.04.16-07.50.27:084][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.04.16-07.50.27:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.16-07.50.27:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.16-07.50.27:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.16-07.50.27:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.16-07.50.27:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.16-07.50.27:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.16-07.50.27:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.16-07.50.27:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.16-07.50.27:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.16-07.50.27:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.16-07.50.27:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.16-07.50.27:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.16-07.50.27:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.16-07.50.27:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.16-07.50.27:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.16-07.50.27:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.16-07.50.27:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.16-07.50.27:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.16-07.50.27:691][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.16-07.50.27:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.16-07.50.27:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.16-07.50.27:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.16-07.50.27:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.04.16-07.50.27:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.04.16-07.50.27:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.04.16-07.50.27:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.04.16-07.50.27:888][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.16-07.50.27:888][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.16-07.50.27:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.16-07.50.27:932][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.16-07.50.27:952][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.16-07.50.27:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.16-07.50.27:976][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.16-07.50.27:989][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.16-07.50.28:106][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.04.16-07.50.28:106][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../../Github/Joker/Joker_LevelDesign/Intermediate/Shaders/WorkingDirectory/12516/).
+[2021.04.16-07.50.28:106][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/joanb/AppData/Local/Temp/UnrealShaderWorkingDir/EA9898884E4AA95AEFA96EAA48C24151/'.
+[2021.04.16-07.50.28:106][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.16-07.50.28:106][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.16-07.50.29:489][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.16-07.50.29:575][  0]LogDerivedDataCache: Loaded boot cache 0.09s 77MB C:/Users/joanb/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.16-07.50.29:575][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/joanb/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.04.16-07.50.29:575][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Github/Joker/Joker_LevelDesign/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.16-07.50.29:575][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.16-07.50.29:575][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Github/Joker/Joker_LevelDesign/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.16-07.50.29:575][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.16-07.50.29:603][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.16-07.50.29:604][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.16-07.50.29:604][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.16-07.50.29:633][  0]LogDerivedDataCache: Speed tests for C:/Users/joanb/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2021.04.16-07.50.29:633][  0]LogDerivedDataCache: Display: Performance to C:/Users/joanb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=102.66MBs, RandomWriteSpeed=49.61MBs. Assigned SpeedClass 'Local'
+[2021.04.16-07.50.29:634][  0]LogDerivedDataCache: Using Local data cache path C:/Users/joanb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.16-07.50.29:634][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.16-07.50.29:634][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.16-07.50.29:764][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.16-07.50.29:764][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.16-07.50.29:821][  0]LogAssetRegistry: FAssetRegistry took 0.0061 seconds to start up
+[2021.04.16-07.50.30:312][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.16-07.50.30:312][  0]LogInit: Active device profile: [000002128B8F1B00][000002128D7A5400 49] Windows
+[2021.04.16-07.50.30:312][  0]LogInit: Profiles: [000002128B8F1B00][000002128D7A5400 49] Windows, [000002128B8E8D00][000002128D7B3580 49] WindowsNoEditor, [000002128B8F0C00][000002128D7A96C0 49] WindowsServer, [000002128B8EA800][000002128D7B7800 49] WindowsClient, [000002128B8F3700][000002128D7BB940 49] IOS, [000002128B8EB400][000002128D7C3AC0 49] iPadAir, [000002128B8F2E00][000002128D7C7C40 49] iPadAir2, [000002128B88ED00][000002128D7D4240 49] IPadPro, [000002128B88EE00][000002128D7CA280 49] iPadAir3, [000002128B8F1300][000002128D7DE400 49] iPadAir4, [000002128B88E700][000002128D7E2580 49] iPadMini2, [000002128B8F3200][000002128D7E6700 49] iPadMini3, [000002128B88D600][000002128D7EA880 49] iPadMini4, [000002128B8F1100][000002128D7EEA00 49] iPadMini5, [000002128B8D2600][000002128D7F6CC0 49] iPhone6, [000002128B8D2700][000002128D7F2D00 49] iPodTouch6, [000002128B88F500][000002128D7FEFC0 49] iPhone7, [000002128B88F600][000002128D7FB000 49] iPodTouch7, [000002128B8D3F00][000002128D803180 49] iPhone5S, [000002128B88E300][000002128D807300 49] iPhone6Plus, [000002128B8D1400][000002128D80B480 49] iPhone6S, [000002128B88D100][000002128D80F600 49] iPhone6SPlus, [000002128B8D0300][000002128D7BF740 49] iPhone7Plus, [000002128B88CB00][000002128D813880 49] iPhoneSE, [000002128B8D3200][000002128D8179C0 49] iPhone8, [000002128B88D500][000002128D81FB40 49] iPhone8Plus, [000002128B8D1900][000002128D823CC0 49] iPhoneX, [000002128B88E100][000002128D826180 49] iPhoneXS, [000002128B8D2300][000002128D82A300 49] iPhoneXSMax, [000002128B88FA00][000002128D950480 49] iPhoneXR, [000002128B8D1E00][000002128D954600 49] iPhone11, [000002128B88CC00][000002128D958780 49] iPhone11Pro, [000002128B8D3300][000002128D95C900 49] iPhone11ProMax, [000002128B88C100][000002128D960A80 49] iPhoneSE2, [000002128B8D0500][000002128D964C00 49] iPhone12Mini, [000002128B88D700][000002128D968D80 49] iPhone12, [000002128B8D2800][000002128D96CF00 49] iPhone12Pro, [000002128B88FF00][000002128D971080 49] iPhone12ProMax, [000002128B8D3000][000002128D975200 49] iPadPro105, [000002128B8EA200][000002128D979380 49] iPadPro129, [000002128B88DF00][000002128D97D500 49] iPadPro97, [000002128B8E8900][000002128D981680 49] iPadPro2_129, [000002128B88F200][000002128D81B7C0 49] iPad5, [000002128B8E9F00][000002128D985900 49] iPad6, [000002128B88E200][000002128D989A40 49] iPad7, [000002128B8EB200][000002128D98DB80 49] iPad8, [000002128B88D200][000002128D995D00 49] iPadPro11, [000002128B8D0F00][000002128D9981C0 49] iPadPro2_11, [000002128B8EA000][000002128D99C340 49] iPadPro3_129, [000002128B8D3C00][000002128D9A04C0 49] iPadPro4_129, [000002128B8E9800][000002128DA2E640 49] AppleTV, [000002128B8D2000][000002128DA447C0 49] AppleTV4K, [000002128B8E8300][000002128DA48940 49] TVOS, [000002128B88C900][000002128DA4CAC0 49] Mac, [000002128B8EA700][000002128DA50C40 49] MacClient, [000002128B88E000][000002128DA54DC0 49] MacNoEditor, [000002128B8EA100][000002128DA64F40 49] MacServer, [000002128B88F700][000002128DA690C0 49] Linux, [000002128B8E9E00][000002128DA6D240 49] LinuxNoEditor, [000002128B88F100][000002128DAB73C0 49] LinuxAArch64NoEditor, [000002128B8EAC00][000002128DAC7540 49] LinuxClient, [000002128B88C700][000002128DB0D6C0 49] LinuxAArch64Client, [000002128B8E8C00][000002128D991800 49] LinuxServer, [000002128B88DC00][000002128DB37940 49] LinuxAArch64Server, [000002128B8EB100][000002128DB3BA80 49] Android, [000002128B88CF00][000002128DB3FBC0 49] Android_Low, [000002128B8E8F00][000002128DB47D40 49] Android_Mid, [000002128B88C400][000002128DB4A200 49] Android_High, [000002128B8E9A00][000002128DB8E380 49] Android_Default, [000002128B88C800][000002128DB9A500 49] Android_Adreno4xx, [000002128B8EA600][000002128DB9E680 49] Android_Adreno5xx_Low, [000002128B88C200][000002128DBA2800 49] Android_Adreno5xx, [000002128B8EAB00][000002128DBA6980 49] Android_Adreno6xx, [000002128B88F900][000002128DBAAB00 49] Android_Adreno6xx_Vulkan, [000002128B8EB500][000002128DBAEC80 49] Android_Mali_T6xx, [000002128B88DE00][000002128DBB2E00 49] Android_Mali_T7xx, [000002128B8EAF00][000002128DBB6F80 49] Android_Mali_T8xx, [000002128B88D300][000002128DBBB100 49] Android_Mali_G71, [000002128B8E9100][000002128DBBF280 49] Android_Mali_G72, [000002128B88C500][000002128DBC3400 49] Android_Mali_G72_Vulkan, [000002128B8EBD00][000002128DBC7580 49] Android_Mali_G76, [000002128B88CE00][000002128DBCB700 49] Android_Mali_G76_Vulkan, [000002128B8E9700][000002128DBCF880 49] Android_Mali_G77, [000002128B88EF00][000002128DB439C0 49] Android_Mali_G77_Vulkan, [000002128B8EB800][000002128DBD3B00 49] Android_Vulkan_SM5, [000002128B88F800][000002128DBD7C40 49] Android_PowerVR_G6xxx, [000002128B8E9400][000002128DBDE100 49] Android_PowerVR_GT7xxx, [000002128B88FD00][000002128DBE2280 49] Android_PowerVR_GE8xxx, [000002128B8E8A00][000002128DBE6400 49] Android_PowerVR_GM9xxx, [000002128B88D000][000002128DBEA580 49] Android_PowerVR_GM9xxx_Vulkan, [000002128B8E9C00][000002128DBEE700 49] Android_TegraK1, [000002128B88E500][000002128DBF2880 49] Android_Unknown_Vulkan, [000002128B8E8500][000002128DBF6A00 49] Lumin, [000002128B8D1A00][000002128DBFAB80 49] Lumin_Desktop, [000002128B8F3800][000002128DBFED00 49] HoloLens, 
+[2021.04.16-07.50.30:465][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.16-07.50.30:465][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.16-07.50.30:465][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.16-07.50.30:465][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.16-07.50.30:465][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.16-07.50.30:495][  0]LogNetVersion: Joker_LevelDesign 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 987141388)
+[2021.04.16-07.50.31:136][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.04.16-07.50.31:259][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.122930 seconds
+[2021.04.16-07.50.31:271][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.04.16-07.50.31:271][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.04.16-07.50.31:271][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.16-07.50.31:724][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.16-07.50.31:733][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.16-07.50.32:412][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.16-07.50.32:437][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.16-07.50.32:437][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.16-07.50.32:534][  0]SourceControl: El control de código fuente está desactivado
+[2021.04.16-07.50.32:534][  0]SourceControl: El control de código fuente está desactivado
+[2021.04.16-07.50.32:538][  0]SourceControl: El control de código fuente está desactivado
+[2021.04.16-07.50.32:541][  0]SourceControl: El control de código fuente está desactivado
+[2021.04.16-07.50.32:546][  0]SourceControl: El control de código fuente está desactivado
+[2021.04.16-07.50.32:560][  0]LogUProjectInfo: Found projects:
+[2021.04.16-07.50.32:576][  0]LogCollectionManager: Loaded 0 collections in 0.000887 seconds
+[2021.04.16-07.50.32:602][  0]LogFileCache: Scanning file cache for directory 'D:/Github/Joker/Joker_LevelDesign/Saved/Collections/' took 0.00s
+[2021.04.16-07.50.32:602][  0]LogFileCache: Scanning file cache for directory 'D:/Github/Joker/Joker_LevelDesign/Content/Developers/joanb/Collections/' took 0.00s
+[2021.04.16-07.50.32:602][  0]LogFileCache: Scanning file cache for directory 'D:/Github/Joker/Joker_LevelDesign/Content/Collections/' took 0.00s
+[2021.04.16-07.50.32:602][  0]LogOcInput: OculusInput pre-init called
+[2021.04.16-07.50.32:614][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.16-07.50.32:615][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.16-07.50.32:677][  0]LogEngine: Initializing Engine...
+[2021.04.16-07.50.32:678][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.16-07.50.32:678][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.16-07.50.32:679][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.04.16-07.50.32:845][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.16-07.50.32:855][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.16-07.50.32:871][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.04.16-07.50.32:878][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.04.16-07.50.32:878][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.04.16-07.50.32:878][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.16-07.50.32:878][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.16-07.50.32:878][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.16-07.50.32:878][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.16-07.50.32:878][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.16-07.50.32:878][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.16-07.50.32:878][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.16-07.50.32:878][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.16-07.50.32:878][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.16-07.50.32:878][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.16-07.50.32:911][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.16-07.50.32:911][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.16-07.50.32:944][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Cloud Flight S Chat)
+[2021.04.16-07.50.32:949][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.16-07.50.32:951][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.16-07.50.32:951][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.16-07.50.32:952][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.16-07.50.32:953][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.16-07.50.32:953][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.16-07.50.32:954][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.16-07.50.32:954][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.16-07.50.32:954][  0]LogInit: FAudioDevice initialized.
+[2021.04.16-07.50.32:954][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.04.16-07.50.32:954][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.16-07.50.33:018][  0]LogDerivedDataCache: Saved boot cache 0.06s 77MB C:/Users/joanb/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.16-07.50.33:018][  0]LogInit: Texture streaming: Enabled
+[2021.04.16-07.50.33:036][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.04.16-07.50.33:042][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.16-07.50.33:042][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.16-07.50.33:044][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.16-07.50.33:078][  0]LogInit: Transaction tracking system initialized
+[2021.04.16-07.50.33:111][  0]BlueprintLog: New page: Cargar el editor
+[2021.04.16-07.50.33:211][  0]LocalizationService: Localization service is disabled
+[2021.04.16-07.50.33:245][  0]TimingProfiler: Initialize
+[2021.04.16-07.50.33:245][  0]TimingProfiler: OnSessionChanged
+[2021.04.16-07.50.33:246][  0]LoadingProfiler: Initialize
+[2021.04.16-07.50.33:246][  0]LoadingProfiler: OnSessionChanged
+[2021.04.16-07.50.33:246][  0]NetworkingProfiler: Initialize
+[2021.04.16-07.50.33:246][  0]NetworkingProfiler: OnSessionChanged
+[2021.04.16-07.50.33:246][  0]MemoryProfiler: Initialize
+[2021.04.16-07.50.33:246][  0]MemoryProfiler: OnSessionChanged
+[2021.04.16-07.50.33:436][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.04.16-07.50.33:436][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.16-07.50.33:504][  0]LogFileCache: Scanning file cache for directory 'D:/Github/Joker/Joker_LevelDesign/Content/' took 0.01s
+[2021.04.16-07.50.34:018][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.04.16-07.50.34:022][  0]SourceControl: El control de código fuente está desactivado
+[2021.04.16-07.50.34:022][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.913
+[2021.04.16-07.50.34:022][  0]Cmd: MAP LOAD FILE="../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.16-07.50.34:023][  0]LightingResults: New page: Diseñar la iluminación
+[2021.04.16-07.50.34:023][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-07.50.34:023][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-07.50.34:024][  0]MapCheck: New page: Revisión del mapa
+[2021.04.16-07.50.34:024][  0]LightingResults: New page: Diseñar la iluminación
+[2021.04.16-07.50.34:034][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.04.16-07.50.34:181][  0]LogBlueprint: Warning: [AssetLog] D:\Github\Joker\Joker_LevelDesign\Content\ThirdPerson_AnimBP.uasset: [Compiler] Idle/Run a Combat  will never be taken, please connect something to  Can Enter Transition
+[2021.04.16-07.50.34:181][  0]LogBlueprint: Warning: [AssetLog] D:\Github\Joker\Joker_LevelDesign\Content\ThirdPerson_AnimBP.uasset: [Compiler] Combat a Idle/Run  will never be taken, please connect something to  Can Enter Transition
+[2021.04.16-07.50.37:265][  0]LogTexture: Display: Building textures: M1911Dis_Material_Roughness (AutoDXT, 2048X2048)
+[2021.04.16-07.50.37:265][  0]LogTexture: Display: Building textures: M1911Dis_Material_MetallicSmoothness (AutoDXT, 2048X2048)
+[2021.04.16-07.50.37:265][  0]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2021.04.16-07.50.37:380][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.04.16-07.50.37:380][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2021.04.16-07.50.37:380][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.04.16-07.50.37:380][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.04.16-07.50.37:380][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 4
+[2021.04.16-07.50.37:409][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.04.16-07.50.37:411][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.16-07.50.37:432][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.16-07.50.37:451][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.04.16-07.50.37:451][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.16-07.50.37:451][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,121ms to complete.
+[2021.04.16-07.50.37:452][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.430
+[2021.04.16-07.50.37:454][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.346
+[2021.04.16-07.50.37:638][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.16-07.50.37:650][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.16-07.50.37:661][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.16-07.50.37:673][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.16-07.50.37:698][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0186 seconds. Added 3601 classes and 859 folders.
+[2021.04.16-07.50.37:702][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.04.16-07.50.37:703][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.16-07.50.37:703][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:703][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.16-07.50.37:704][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.04.16-07.50.37:704][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.16-07.50.37:704][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:705][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.16-07.50.37:705][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.04.16-07.50.37:705][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.04.16-07.50.37:705][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:705][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.04.16-07.50.37:705][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.04.16-07.50.37:706][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.16-07.50.37:706][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:706][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.16-07.50.37:706][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.04.16-07.50.37:707][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.16-07.50.37:707][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:707][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.16-07.50.37:707][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.04.16-07.50.37:708][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.16-07.50.37:708][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:708][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.16-07.50.37:708][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.04.16-07.50.37:709][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.16-07.50.37:709][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:709][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.16-07.50.37:709][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.04.16-07.50.37:710][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.16-07.50.37:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.16-07.50.37:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.04.16-07.50.37:710][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.16-07.50.37:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.16-07.50.37:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.04.16-07.50.37:711][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.16-07.50.37:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.16-07.50.37:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.04.16-07.50.37:712][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.16-07.50.37:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.16-07.50.37:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.04.16-07.50.37:713][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.16-07.50.37:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.16-07.50.37:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.04.16-07.50.37:713][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.16-07.50.37:714][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:714][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.16-07.50.37:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.04.16-07.50.37:714][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.16-07.50.37:714][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:715][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.16-07.50.37:715][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.04.16-07.50.37:715][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.16-07.50.37:715][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:715][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.16-07.50.37:715][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.04.16-07.50.37:716][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.16-07.50.37:716][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:716][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.16-07.50.37:716][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.04.16-07.50.37:717][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.16-07.50.37:717][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:717][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.16-07.50.37:717][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.04.16-07.50.37:718][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.16-07.50.37:718][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:718][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.16-07.50.37:718][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.04.16-07.50.37:719][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.16-07.50.37:719][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:719][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.16-07.50.37:719][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.04.16-07.50.37:720][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.16-07.50.37:720][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:720][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.16-07.50.37:720][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.04.16-07.50.37:721][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.16-07.50.37:721][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:721][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.16-07.50.37:721][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.04.16-07.50.37:722][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.16-07.50.37:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:722][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.16-07.50.37:722][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.04.16-07.50.37:722][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.04.16-07.50.37:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:723][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.04.16-07.50.37:723][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.04.16-07.50.37:723][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.16-07.50.37:723][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:723][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.16-07.50.37:723][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.04.16-07.50.37:724][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.16-07.50.37:724][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:724][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.16-07.50.37:724][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.04.16-07.50.37:725][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.16-07.50.37:725][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.16-07.50.37:725][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.16-07.50.37:725][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.04.16-07.50.37:784][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.04.16-07.50.37:785][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.04.16-07.50.37:866][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.16-07.50.37:870][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.16-07.50.37:881][  0]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.16-07.50.38:136][  0]LogRenderer: Reallocating scene render targets to support 944x524 Format 10 NumSamples 1 (Frame:1).
+[2021.04.16-07.50.38:573][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.04.16-07.50.38:576][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.04.16-07.50.38:576][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.04.16-07.50.38:576][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.04.16-07.50.38:576][  0]LogLoad: (Engine Initialization) Total time: 13.47 seconds
+[2021.04.16-07.50.38:576][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.16-07.50.38:576][  0]LogInit: First time updating LLM stats...
+[2021.04.16-07.50.39:240][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.16-07.50.39:342][  1]LogAssetRegistry: Asset discovery search completed in 9.5228 seconds
+[2021.04.16-07.50.39:346][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2021.04.16-07.55.06:785][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.16-07.55.08:696][461]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.16-07.55.08:710][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.16-07.55.08:712][461]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (16 abr. 2021 11:55:08)
+[2021.04.16-07.55.08:714][461]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.16-07.55.08:717][461]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.16-07.55.08:718][461]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.16-07.55.08:744][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025352s)
+[2021.04.16-07.55.08:747][461]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.16-07.55.08:748][461]LogPlayLevel: PIE: World Init took: (0.003525s)
+[2021.04.16-07.55.08:748][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030066s)
+[2021.04.16-07.55.08:758][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.04.16-07.55.08:760][461]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.04.16-07.55.08:760][461]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.16-07.55.08:760][461]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.16-07.55.08:760][461]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.16-07.55.08:760][461]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.16-07.55.08:760][461]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.16-07.55.08:760][461]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.16-07.55.08:760][461]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.16-07.55.08:760][461]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.16-07.55.08:761][461]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.16-07.55.08:761][461]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.16-07.55.08:768][461]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.16-07.55.08:768][461]LogAudioMixer: Display: 1: FrontRight
+[2021.04.16-07.55.08:776][461]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Cloud Flight S Chat)
+[2021.04.16-07.55.08:776][461]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.16-07.55.08:776][461]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.16-07.55.08:776][461]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.16-07.55.08:777][461]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.16-07.55.08:777][461]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.16-07.55.08:777][461]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.16-07.55.08:799][461]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.16-07.55.08:799][461]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.16-07.55.08:799][461]LogInit: FAudioDevice initialized.
+[2021.04.16-07.55.08:799][461]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.04.16-07.55.08:818][461]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.16-07.55.08:831][461]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.16-09.55.08
+[2021.04.16-07.55.08:833][461]LogWorld: Bringing up level for play took: 0.006096
+[2021.04.16-07.55.08:834][461]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.04.16-07.55.08:857][461]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2021.04.16-07.55.08:863][461]PIE: El servidor ha iniciado la sesión
+[2021.04.16-07.55.08:869][461]PIE: Play in editor total start time 0,161 seconds.
+[2021.04.16-07.55.18:167][933]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-07.55.18:712][962]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-07.55.19:499][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-07.55.20:067][ 53]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-07.55.21:539][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.16-07.55.21:539][145]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.16-07.55.21:539][145]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-07.55.21:540][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-07.55.21:550][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.16-07.55.21:587][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-07.55.21:596][145]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.16-07.55.21:597][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.16-07.55.21:598][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.16-07.55.21:634][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.16-07.55.21:637][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.04.16-07.55.21:683][146]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.04.16-07.56.09:713][673]LogSlate: Took 0.013788 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.16-07.56.09:745][673]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/AnimOffset/Combat.Combat
+[2021.04.16-07.56.09:846][673]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2021.04.16-07.56.10:177][673]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.16-07.56.10:181][673]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2021.04.16-07.56.11:275][673]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.04.16-07.56.40:445][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimOffset/Combat" FILE="../../../../../../Github/Joker/Joker_LevelDesign/Content/AnimOffset/Combat.uasset" SILENT=true
+[2021.04.16-07.56.40:464][442]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/CombatBC2DED11454B6ED5636987806AED8458.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Content/AnimOffset/Combat.uasset'
+[2021.04.16-07.56.40:483][442]AssetCheck: New page: Asset Save: Combat
+[2021.04.16-07.56.40:483][442]LogContentValidation: Display: Validating BlendSpace /Game/AnimOffset/Combat.Combat
+[2021.04.16-07.56.42:231][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.04.16-07.58.24:837][653]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.04.16-07.58.24:854][653]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.16-07.58.25:127][653]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 126 classes and 0 folders.
+[2021.04.16-07.58.27:731][653]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.16-07.58.28:034][653]LogSlate: Took 0.015756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.16-07.58.28:075][654]LogSlate: Took 0.010237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.16-07.59.13:605][  3]BlueprintLog: New page: Compilar ThirdPerson_AnimBP
+[2021.04.16-07.59.13:619][  3]LogBlueprint: Warning: [AssetLog] D:\Github\Joker\Joker_LevelDesign\Content\ThirdPerson_AnimBP.uasset: [Compiler] Idle/Run a Combat  will never be taken, please connect something to  Can Enter Transition
+[2021.04.16-07.59.13:619][  3]LogBlueprint: Warning: [AssetLog] D:\Github\Joker\Joker_LevelDesign\Content\ThirdPerson_AnimBP.uasset: [Compiler] Combat a Idle/Run  will never be taken, please connect something to  Can Enter Transition
+[2021.04.16-07.59.13:715][  3]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.04.16-08.02.23:233][136]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2021.04.16-08.02.23:241][136]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2021.04.16-08.02.23:242][136]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.02.23:243][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.02.23:350][136]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.02.23:350][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.02.23:392][136]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.02.23:392][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.02.23:408][136]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.02.23:409][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.02.23:545][136]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.02.23:546][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.02.27:016][270]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.16-08.02.32:204][365]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.04.16-08.02.32:216][365]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.04.16-08.02.32:230][365]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.02.32:231][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.02.43:074][714]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.04.16-08.02.43:345][714]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.16-08.02.44:298][714]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2021.04.16-08.03.02:571][189]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2021.04.16-08.03.02:577][189]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.16-08.03.03:057][189]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.04.16-08.03.07:098][281]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2021.04.16-08.03.07:182][281]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0005 seconds. Added 8 classes and 3 folders.
+[2021.04.16-08.03.07:201][281]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.04.16-08.03.08:309][282]LogRenderer: Reallocating scene render targets to support 944x808 Format 10 NumSamples 1 (Frame:1).
+[2021.04.16-08.03.08:309][282]LogSlate: Window 'SK_Mannequin_PhysicsAsset' being destroyed
+[2021.04.16-08.03.08:383][282]LogSlate: Window 'SK_Mannequin_PhysicsAsset' being destroyed
+[2021.04.16-08.03.08:401][282]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.03.08:401][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.03.08:419][282]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.03.08:419][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.03.08:529][282]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.03.08:529][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.03.08:553][282]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.03.08:553][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.03.08:633][282]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.03.08:633][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.03.08:655][282]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.03.08:655][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.03.18:471][594]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/Joker.Joker
+[2021.04.16-08.03.18:484][594]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.16-08.03.18:865][594]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Joker_Skeleton, removing AnimBP from actor.
+[2021.04.16-08.03.21:348][640]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/AnimOffset/Combat.Combat
+[2021.04.16-08.03.21:354][640]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.16-08.03.21:810][640]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.04.16-08.03.23:181][679]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.04.16-08.03.23:193][679]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.16-08.04.28:273][831]LogSlate: Took 0.005923 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.04.16-08.04.30:323][858]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.265476 seconds
+[2021.04.16-08.04.30:323][858]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.04.16-08.04.30:323][858]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.04.16-08.04.30:892][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.04.30:926][859]LogSlate: Took 0.000525 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.16-08.04.30:957][859]LogSlate: Took 0.000357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.16-08.04.30:958][859]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.16-08.04.30:985][859]LogSlate: Took 0.012200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.16-08.04.31:017][859]LogSlate: Took 0.010892 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.16-08.04.31:034][859]LogSlate: Took 0.014921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.16-08.04.33:068][891]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.04.16-08.04.33:100][891]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.04.16-08.07.14:546][743]LogSlate: Took 0.007755 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.16-08.07.26:837][939]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2021.04.16-08.07.26:843][939]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.170
+[2021.04.16-08.07.26:852][939]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson_AnimBP] ([1] browsable assets)...
+[2021.04.16-08.07.26:874][939]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2021.04.16-08.07.26:874][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson_AnimBP]
+[2021.04.16-08.07.26:875][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson_AnimBP" FILE="../../../../../../Github/Joker/Joker_LevelDesign/Saved/Autosaves/Game/ThirdPerson_AnimBP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.04.16-08.07.26:947][939]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/ThirdPerson_AnimBP_Auto1EC50BCDE491442277E6430B3DE6986D0.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Saved/Autosaves/Game/ThirdPerson_AnimBP_Auto1.uasset'
+[2021.04.16-08.07.26:948][939]LogFileHelpers: Auto-saving content packages took 0.097
+[2021.04.16-08.07.38:408][ 44]LogHttp: Warning: 0000021334706400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4594C45F-4C00-2BA0-CD7B-A39278C6F1C6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=b088751c4cf6d0da61d98c8ef6149877%7C000c40c1f302427fa1eb7f37ac5353a9%7C36920826-1a8c-4265-97ba-0cf484734921&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.04.16-08.07.38:408][ 44]LogHttp: Warning: 0000021334706400: request failed, libcurl error: 0 (No error)
+[2021.04.16-08.07.38:408][ 44]LogHttp: Warning: 0000021334706400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x212ebc03eb0 [can pipeline])
+[2021.04.16-08.07.38:408][ 44]LogHttp: Warning: 0000021334706400: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2021.04.16-08.07.38:408][ 44]LogHttp: Warning: 0000021334706400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.205.87.254) port 443 (#1))
+[2021.04.16-08.07.38:408][ 44]LogHttp: Warning: 0000021334706400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.04.16-08.07.38:408][ 44]LogHttp: Warning: 0000021334706400: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2021.04.16-08.07.38:408][ 44]LogHttp: Warning: 0000021334706400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.04.16-08.07.38:408][ 44]LogHttp: Warning: 0000021334706400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.04.16-08.07.38:409][ 44]LogHttp: Warning: 0000021334706400: libcurl info message cache 7 (Closing connection 1)
+[2021.04.16-08.07.38:409][ 44]LogHttp: Warning: 0000021334706400: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.04.16-08.07.38:409][ 44]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4594C45F-4C00-2BA0-CD7B-A39278C6F1C6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=b088751c4cf6d0da61d98c8ef6149877%7C000c40c1f302427fa1eb7f37ac5353a9%7C36920826-1a8c-4265-97ba-0cf484734921&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.04.16-08.08.01:848][390]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2021.04.16-08.08.01:862][390]LogBlueprint: Warning: [AssetLog] D:\Github\Joker\Joker_LevelDesign\Content\ThirdPerson_AnimBP.uasset: [Compiler] Idle/Run to Combat  will never be taken, please connect something to  Can Enter Transition
+[2021.04.16-08.08.01:863][390]LogBlueprint: Warning: [AssetLog] D:\Github\Joker\Joker_LevelDesign\Content\ThirdPerson_AnimBP.uasset: [Compiler] Combat to Idle/Run  will never be taken, please connect something to  Can Enter Transition
+[2021.04.16-08.08.02:014][390]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2021.04.16-08.08.03:070][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson_AnimBP" FILE="../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset" SILENT=true
+[2021.04.16-08.08.03:146][407]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/ThirdPerson_AnimBPA2E41E2949CFCA707201DDBB016CC292.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset'
+[2021.04.16-08.08.03:168][407]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2021.04.16-08.08.03:168][407]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.04.16-08.08.33:080][  1]LogHttp: Warning: 0000021333D25600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4594C45F-4C00-2BA0-CD7B-A39278C6F1C6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=b088751c4cf6d0da61d98c8ef6149877%7C000c40c1f302427fa1eb7f37ac5353a9%7C36920826-1a8c-4265-97ba-0cf484734921&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.04.16-08.08.33:081][  1]LogHttp: Warning: 0000021333D25600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.04.16-08.08.33:081][  1]LogHttp: Warning: 0000021333D25600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.04.16-08.08.33:081][  1]LogHttp: Warning: 0000021333D25600: libcurl info message cache 1 (Closing connection 2)
+[2021.04.16-08.08.33:116][  2]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4594C45F-4C00-2BA0-CD7B-A39278C6F1C6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=b088751c4cf6d0da61d98c8ef6149877%7C000c40c1f302427fa1eb7f37ac5353a9%7C36920826-1a8c-4265-97ba-0cf484734921&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.04.16-08.09.01:652][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson_AnimBP" FILE="../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset" SILENT=true
+[2021.04.16-08.09.01:721][515]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/ThirdPerson_AnimBPAFF094F84A23AD50B1FA69AF1E0ACD40.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset'
+[2021.04.16-08.09.01:740][515]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2021.04.16-08.09.01:740][515]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.04.16-08.09.44:712][666]LogHttp: Warning: 000002139CF68F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4594C45F-4C00-2BA0-CD7B-A39278C6F1C6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=b088751c4cf6d0da61d98c8ef6149877%7C000c40c1f302427fa1eb7f37ac5353a9%7C36920826-1a8c-4265-97ba-0cf484734921&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.04.16-08.09.44:712][666]LogHttp: Warning: 000002139CF68F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.04.16-08.09.44:712][666]LogHttp: Warning: 000002139CF68F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.04.16-08.09.44:712][666]LogHttp: Warning: 000002139CF68F00: libcurl info message cache 1 (Closing connection 3)
+[2021.04.16-08.09.44:712][666]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4594C45F-4C00-2BA0-CD7B-A39278C6F1C6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=b088751c4cf6d0da61d98c8ef6149877%7C000c40c1f302427fa1eb7f37ac5353a9%7C36920826-1a8c-4265-97ba-0cf484734921&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.04.16-08.10.27:685][793]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.04.16-08.11.10:423][146]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.11.10:423][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.11.10:438][146]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.11.10:438][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.11.10:569][146]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.11.10:570][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.11.13:125][197]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.04.16-08.11.13:142][197]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.16-08.11.23:895][403]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.11.23:895][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.11.24:028][403]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.11.24:028][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.11.25:032][432]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.11.25:032][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.11.25:046][432]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.11.25:046][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.11.25:183][432]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.11.25:183][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.11.26:504][472]LogSlate: Window 'Joker' being destroyed
+[2021.04.16-08.11.26:568][472]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.11.26:568][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.11.28:330][530]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2021.04.16-08.11.30:061][581]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2021.04.16-08.11.31:599][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.04.16-08.11.35:970][778]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/Joker.Joker
+[2021.04.16-08.11.35:980][778]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.16-08.11.41:278][894]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/AnimOffset/Combat.Combat
+[2021.04.16-08.11.41:285][894]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.16-08.11.41:877][894]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.04.16-08.11.43:956][932]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.04.16-08.11.43:969][932]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.16-08.12.54:866][885]LogHttp: Warning: 000002132C806400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4594C45F-4C00-2BA0-CD7B-A39278C6F1C6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=b088751c4cf6d0da61d98c8ef6149877%7C000c40c1f302427fa1eb7f37ac5353a9%7C36920826-1a8c-4265-97ba-0cf484734921&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.04.16-08.12.54:866][885]LogHttp: Warning: 000002132C806400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.04.16-08.12.54:866][885]LogHttp: Warning: 000002132C806400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x212ebc02650 [can pipeline])
+[2021.04.16-08.12.54:866][885]LogHttp: Warning: 000002132C806400: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2021.04.16-08.12.54:866][885]LogHttp: Warning: 000002132C806400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.205.225.2) port 443 (#4))
+[2021.04.16-08.12.54:866][885]LogHttp: Warning: 000002132C806400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.04.16-08.12.54:866][885]LogHttp: Warning: 000002132C806400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.04.16-08.12.54:866][885]LogHttp: Warning: 000002132C806400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.04.16-08.12.54:866][885]LogHttp: Warning: 000002132C806400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.04.16-08.12.54:866][885]LogHttp: Warning: 000002132C806400: libcurl info message cache 7 (Closing connection 4)
+[2021.04.16-08.12.55:197][886]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4594C45F-4C00-2BA0-CD7B-A39278C6F1C6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=b088751c4cf6d0da61d98c8ef6149877%7C000c40c1f302427fa1eb7f37ac5353a9%7C36920826-1a8c-4265-97ba-0cf484734921&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.04.16-08.13.20:815][961]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.04.16-08.13.22:758][967]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.04.16-08.13.22:767][967]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.04.16-08.13.22:767][967]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.04.16-08.13.22:821][967]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.04.16-08.13.24:692][973]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.04.16-08.13.24:692][973]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.04.16-08.13.24:692][973]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.04.16-08.13.24:838][973]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.04.16-08.14.24:666][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson_AnimBP" FILE="../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset" SILENT=true
+[2021.04.16-08.14.24:741][721]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/ThirdPerson_AnimBPBA010820409FCEF19CAA5F80D4132CB3.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset'
+[2021.04.16-08.14.24:763][721]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2021.04.16-08.14.24:763][721]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.04.16-08.14.25:291][734]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2021.04.16-08.14.25:312][734]LogBlueprint: Warning: [AssetLog] D:\Github\Joker\Joker_LevelDesign\Content\ThirdPerson_AnimBP.uasset: [Compiler] Combat to Idle/Run  will never be taken, please connect something to  Can Enter Transition
+[2021.04.16-08.14.25:412][734]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2021.04.16-08.14.26:221][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson_AnimBP" FILE="../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset" SILENT=true
+[2021.04.16-08.14.26:294][750]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/ThirdPerson_AnimBP7FAAE77D4E900242A0A5369E63174167.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset'
+[2021.04.16-08.14.26:313][750]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2021.04.16-08.14.26:313][750]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.04.16-08.14.44:028][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson_AnimBP" FILE="../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset" SILENT=true
+[2021.04.16-08.14.44:100][974]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/ThirdPerson_AnimBPD3C90A334EF4E005ABEB738318EC6781.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset'
+[2021.04.16-08.14.44:119][974]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2021.04.16-08.14.44:119][974]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.04.16-08.15.35:385][670]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2021.04.16-08.15.35:514][670]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2021.04.16-08.15.36:631][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson_AnimBP" FILE="../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset" SILENT=true
+[2021.04.16-08.15.36:709][692]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/ThirdPerson_AnimBPECE6968540232FC7EBCD81A534CAE304.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset'
+[2021.04.16-08.15.36:734][692]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2021.04.16-08.15.36:734][692]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.04.16-08.16.35:782][269]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2021.04.16-08.16.35:893][269]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2021.04.16-08.16.36:736][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson_AnimBP" FILE="../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset" SILENT=true
+[2021.04.16-08.16.36:812][289]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/ThirdPerson_AnimBP97D298574F0C4EECEDF1828D7DAB98A9.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset'
+[2021.04.16-08.16.36:831][289]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2021.04.16-08.16.36:831][289]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.04.16-08.17.31:895][202]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2021.04.16-08.17.31:999][202]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.04.16-08.17.32:800][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson_AnimBP" FILE="../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset" SILENT=true
+[2021.04.16-08.17.32:879][212]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/ThirdPerson_AnimBPD6508C0C4D59A6B66927C1897484DD7A.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset'
+[2021.04.16-08.17.32:895][212]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2021.04.16-08.17.32:896][212]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.04.16-08.18.28:595][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson_AnimBP" FILE="../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset" SILENT=true
+[2021.04.16-08.18.28:661][519]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/ThirdPerson_AnimBP750519A74C75A46AA08DD8BB07ED212E.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset'
+[2021.04.16-08.18.28:679][519]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2021.04.16-08.18.28:679][519]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.04.16-08.18.29:045][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson_AnimBP" FILE="../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset" SILENT=true
+[2021.04.16-08.18.29:108][526]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/ThirdPerson_AnimBP1D02C4434B7AB2186FDC70B1C876C8B6.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPerson_AnimBP.uasset'
+[2021.04.16-08.18.29:125][526]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2021.04.16-08.18.29:126][526]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.04.16-08.19.07:673][872]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.04.16-08.19.35:272][570]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.16-08.19.35:296][570]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.16-08.19.49:842][747]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.04.16-08.20.07:700][173]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.16-08.20.07:721][173]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.16-08.20.25:840][303]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2021.04.16-08.20.25:851][303]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2021.04.16-08.20.25:852][303]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.20.25:852][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.20.26:156][303]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.20.26:156][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.20.26:319][303]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.20.26:320][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.20.26:356][303]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.20.26:357][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.20.26:371][303]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.20.26:371][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.20.26:506][303]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.20.26:506][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.20.34:306][571]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.16-08.21.19:125][435]LogEditorTransaction: Undo Add Node
+[2021.04.16-08.22.18:981][705]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.16-08.22.28:944][930]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.16-08.22.54:043][462]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2021.04.16-08.22.54:096][462]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/ThirdPersonExampleMap_Auto2F47ABA5A42236EF1003E74B872A4D459.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2021.04.16-08.22.54:098][462]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.206
+[2021.04.16-08.22.54:098][462]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.206
+[2021.04.16-08.22.54:099][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.04.16-08.22.54:120][462]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.04.16-08.22.54:120][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.04.16-08.22.54:265][462]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/ThirdPersonCharacter_Auto2B6A7A04F48A21C7A37532AB89F43252E.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2021.04.16-08.22.54:266][462]LogFileHelpers: Auto-saving content packages took 0.167
+[2021.04.16-08.23.18:373][ 22]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.16-08.23.18:492][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.04.16-08.23.19:423][ 46]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/ThirdPersonCharacter44E3FE3B40E7023AA9DAABB48726B2F0.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.16-08.23.19:439][ 46]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.04.16-08.23.19:440][ 46]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.16-08.23.33:079][394]LogHttp: Warning: 000002130DF00F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4594C45F-4C00-2BA0-CD7B-A39278C6F1C6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=b088751c4cf6d0da61d98c8ef6149877%7C000c40c1f302427fa1eb7f37ac5353a9%7C36920826-1a8c-4265-97ba-0cf484734921&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.04.16-08.23.33:079][394]LogHttp: Warning: 000002130DF00F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.04.16-08.23.33:079][394]LogHttp: Warning: 000002130DF00F00: libcurl info message cache 0 (Connection 5 seems to be dead!)
+[2021.04.16-08.23.33:079][394]LogHttp: Warning: 000002130DF00F00: libcurl info message cache 1 (Closing connection 5)
+[2021.04.16-08.23.33:079][394]LogHttp: Warning: 000002130DF00F00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.04.16-08.23.33:079][394]LogHttp: Warning: 000002130DF00F00: libcurl info message cache 3 (Closing connection 6)
+[2021.04.16-08.23.33:079][394]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4594C45F-4C00-2BA0-CD7B-A39278C6F1C6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=b088751c4cf6d0da61d98c8ef6149877%7C000c40c1f302427fa1eb7f37ac5353a9%7C36920826-1a8c-4265-97ba-0cf484734921&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.04.16-08.24.33:653][377]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.04.16-08.24.33:668][378]LogHttp: Warning: 000002132CCEC800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4594C45F-4C00-2BA0-CD7B-A39278C6F1C6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=b088751c4cf6d0da61d98c8ef6149877%7C000c40c1f302427fa1eb7f37ac5353a9%7C36920826-1a8c-4265-97ba-0cf484734921&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.04.16-08.24.33:668][378]LogHttp: Warning: 000002132CCEC800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.04.16-08.24.33:668][378]LogHttp: Warning: 000002132CCEC800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.04.16-08.24.33:668][378]LogHttp: Warning: 000002132CCEC800: libcurl info message cache 1 (Closing connection 7)
+[2021.04.16-08.24.33:668][378]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4594C45F-4C00-2BA0-CD7B-A39278C6F1C6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=b088751c4cf6d0da61d98c8ef6149877%7C000c40c1f302427fa1eb7f37ac5353a9%7C36920826-1a8c-4265-97ba-0cf484734921&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.04.16-08.25.11:284][269]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.16-08.25.11:391][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.04.16-08.25.45:193][672]LogHttp: Warning: 000002132C8D0800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4594C45F-4C00-2BA0-CD7B-A39278C6F1C6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=b088751c4cf6d0da61d98c8ef6149877%7C000c40c1f302427fa1eb7f37ac5353a9%7C36920826-1a8c-4265-97ba-0cf484734921&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.04.16-08.25.45:193][672]LogHttp: Warning: 000002132C8D0800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.04.16-08.25.45:193][672]LogHttp: Warning: 000002132C8D0800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.04.16-08.25.45:193][672]LogHttp: Warning: 000002132C8D0800: libcurl info message cache 1 (Closing connection 8)
+[2021.04.16-08.25.45:194][672]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4594C45F-4C00-2BA0-CD7B-A39278C6F1C6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=b088751c4cf6d0da61d98c8ef6149877%7C000c40c1f302427fa1eb7f37ac5353a9%7C36920826-1a8c-4265-97ba-0cf484734921&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.04.16-08.26.45:246][835]LogHttp: Warning: 000002130F0EE400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4594C45F-4C00-2BA0-CD7B-A39278C6F1C6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=b088751c4cf6d0da61d98c8ef6149877%7C000c40c1f302427fa1eb7f37ac5353a9%7C36920826-1a8c-4265-97ba-0cf484734921&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.04.16-08.26.45:247][835]LogHttp: Warning: 000002130F0EE400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.04.16-08.26.45:247][835]LogHttp: Warning: 000002130F0EE400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.04.16-08.26.45:247][835]LogHttp: Warning: 000002130F0EE400: libcurl info message cache 1 (Closing connection 9)
+[2021.04.16-08.26.45:584][836]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4594C45F-4C00-2BA0-CD7B-A39278C6F1C6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=b088751c4cf6d0da61d98c8ef6149877%7C000c40c1f302427fa1eb7f37ac5353a9%7C36920826-1a8c-4265-97ba-0cf484734921&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.04.16-08.27.14:391][ 74]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.16-08.27.14:516][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.04.16-08.27.15:456][ 95]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/ThirdPersonCharacter990A656C4826A6908EDE96B28BBEBB46.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.04.16-08.27.15:474][ 95]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.04.16-08.27.15:474][ 95]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.04.16-08.27.46:684][366]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.04.16-08.27.46:817][366]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.04.16-08.27.47:591][386]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.04.16-08.27.47:604][386]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.04.16-08.27.47:614][386]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.27.47:614][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.27.48:620][439]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.16-08.27.48:633][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.16-08.27.48:633][439]PIE: New page: PIE session: ThirdPersonExampleMap (16 abr. 2021 12:27:48)
+[2021.04.16-08.27.48:661][439]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.16-08.27.48:706][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043765s)
+[2021.04.16-08.27.48:708][439]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.16-08.27.48:709][439]LogPlayLevel: PIE: World Init took: (0.002704s)
+[2021.04.16-08.27.48:709][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.046839s)
+[2021.04.16-08.27.48:750][439]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2021.04.16-08.27.48:752][439]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.04.16-08.27.48:752][439]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.16-08.27.48:752][439]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.16-08.27.48:752][439]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.16-08.27.48:752][439]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.16-08.27.48:752][439]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.16-08.27.48:752][439]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.16-08.27.48:752][439]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.16-08.27.48:752][439]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.16-08.27.48:753][439]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.16-08.27.48:753][439]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.16-08.27.48:873][439]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.16-08.27.48:873][439]LogAudioMixer: Display: 1: FrontRight
+[2021.04.16-08.27.48:882][439]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Cloud Flight S Chat)
+[2021.04.16-08.27.48:882][439]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.16-08.27.48:882][439]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.16-08.27.48:882][439]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.16-08.27.48:883][439]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.16-08.27.48:883][439]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.16-08.27.48:883][439]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.16-08.27.48:912][439]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.16-08.27.48:912][439]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.16-08.27.48:912][439]LogInit: FAudioDevice initialized.
+[2021.04.16-08.27.48:912][439]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.04.16-08.27.48:922][439]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.16-08.27.48:926][439]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.16-10.27.48
+[2021.04.16-08.27.48:926][439]LogWorld: Bringing up level for play took: 0.002765
+[2021.04.16-08.27.48:927][439]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.04.16-08.27.48:931][439]PIE: Server logged in
+[2021.04.16-08.27.48:932][439]PIE: Play in editor total start time 0,301 seconds.
+[2021.04.16-08.27.52:093][648]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2021.04.16-08.27.59:677][132]LogScript: Warning: Accessed None trying to read property CurrentBP
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:083E
+[2021.04.16-08.27.59:687][132]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentBP". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  AttachActorToComponent
+[2021.04.16-08.28.01:196][236]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-08.28.01:196][236]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Secondary
+[2021.04.16-08.28.01:791][268]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2021.04.16-08.28.04:619][459]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-08.28.04:619][459]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Secondary2
+[2021.04.16-08.28.06:205][557]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-08.28.06:694][592]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-08.28.10:064][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.16-08.28.10:064][824]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.16-08.28.10:065][824]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.28.10:065][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.28.10:077][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.16-08.28.10:113][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.28.10:145][824]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.16-08.28.10:146][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.16-08.28.10:148][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.16-08.28.10:183][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.16-08.28.10:189][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.04.16-08.28.10:382][825]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.04.16-08.28.11:924][892]LogSlate: Window 'Message Log' being destroyed
+[2021.04.16-08.28.11:938][892]LogSlate: Window 'Message Log' being destroyed
+[2021.04.16-08.28.13:251][950]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.04.16-08.28.13:283][950]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/ThirdPersonExampleMapB637384949A289493F06908DF1069AB6.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.04.16-08.28.13:319][950]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.04.16-08.28.13:319][950]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.04.16-08.28.14:193][988]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.04.16-08.28.14:219][988]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/ThirdPersonExampleMapCC5E59DC49234452D704A6972E8197A3.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.04.16-08.28.14:249][988]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.04.16-08.28.14:249][988]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.04.16-08.30.08:832][506]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.16-08.30.08:845][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.16-08.30.08:845][506]PIE: New page: PIE session: ThirdPersonExampleMap (16 abr. 2021 12:30:08)
+[2021.04.16-08.30.08:846][506]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.16-08.30.08:874][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028911s)
+[2021.04.16-08.30.08:877][506]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.16-08.30.08:886][506]LogPlayLevel: PIE: World Init took: (0.011069s)
+[2021.04.16-08.30.08:886][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.040443s)
+[2021.04.16-08.30.08:921][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.04.16-08.30.08:925][506]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.04.16-08.30.08:925][506]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.16-08.30.08:925][506]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.16-08.30.08:925][506]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.16-08.30.08:925][506]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.16-08.30.08:925][506]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.16-08.30.08:925][506]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.16-08.30.08:925][506]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.16-08.30.08:925][506]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.16-08.30.08:925][506]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.16-08.30.08:925][506]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.16-08.30.08:930][506]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.16-08.30.08:930][506]LogAudioMixer: Display: 1: FrontRight
+[2021.04.16-08.30.08:938][506]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Cloud Flight S Chat)
+[2021.04.16-08.30.08:939][506]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.16-08.30.08:939][506]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.16-08.30.08:939][506]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.16-08.30.08:940][506]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.16-08.30.08:940][506]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.16-08.30.08:940][506]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.16-08.30.08:965][506]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.16-08.30.08:965][506]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.16-08.30.08:965][506]LogInit: FAudioDevice initialized.
+[2021.04.16-08.30.08:965][506]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2021.04.16-08.30.08:976][506]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.16-08.30.08:979][506]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.16-10.30.08
+[2021.04.16-08.30.08:979][506]LogWorld: Bringing up level for play took: 0.002376
+[2021.04.16-08.30.08:980][506]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.04.16-08.30.08:983][506]PIE: Server logged in
+[2021.04.16-08.30.08:984][506]PIE: Play in editor total start time 0,141 seconds.
+[2021.04.16-08.30.38:495][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.16-08.30.38:495][940]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.16-08.30.38:495][940]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.30.38:496][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.30.38:515][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.16-08.30.38:554][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.30.38:584][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.16-08.30.38:585][940]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.16-08.30.38:587][940]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.16-08.30.38:625][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.04.16-08.30.38:696][941]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.04.16-08.31.04:335][232]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.16-08.31.04:351][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.16-08.31.04:352][232]PIE: New page: PIE session: ThirdPersonExampleMap (16 abr. 2021 12:31:04)
+[2021.04.16-08.31.04:352][232]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.16-08.31.04:384][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031662s)
+[2021.04.16-08.31.04:387][232]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.16-08.31.04:387][232]LogPlayLevel: PIE: World Init took: (0.003115s)
+[2021.04.16-08.31.04:388][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.035374s)
+[2021.04.16-08.31.04:435][232]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.04.16-08.31.04:439][232]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.04.16-08.31.04:439][232]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.16-08.31.04:439][232]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.16-08.31.04:439][232]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.16-08.31.04:439][232]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.16-08.31.04:440][232]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.16-08.31.04:440][232]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.16-08.31.04:440][232]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.16-08.31.04:440][232]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.16-08.31.04:440][232]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.16-08.31.04:440][232]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.16-08.31.04:446][232]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.16-08.31.04:446][232]LogAudioMixer: Display: 1: FrontRight
+[2021.04.16-08.31.04:456][232]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Cloud Flight S Chat)
+[2021.04.16-08.31.04:457][232]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.16-08.31.04:457][232]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.16-08.31.04:457][232]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.16-08.31.04:457][232]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.16-08.31.04:457][232]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.16-08.31.04:457][232]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.16-08.31.04:489][232]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.16-08.31.04:489][232]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.16-08.31.04:489][232]LogInit: FAudioDevice initialized.
+[2021.04.16-08.31.04:489][232]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2021.04.16-08.31.04:506][232]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.16-08.31.04:510][232]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.16-10.31.04
+[2021.04.16-08.31.04:511][232]LogWorld: Bringing up level for play took: 0.003182
+[2021.04.16-08.31.04:511][232]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.04.16-08.31.04:515][232]PIE: Server logged in
+[2021.04.16-08.31.04:517][232]PIE: Play in editor total start time 0,168 seconds.
+[2021.04.16-08.31.28:286][216]LogScript: Warning: Accessed None trying to read property CurrentBP
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:083E
+[2021.04.16-08.31.28:286][216]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentBP". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  AttachActorToComponent
+[2021.04.16-08.31.28:831][238]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2021.04.16-08.31.29:170][252]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-08.31.29:170][252]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Secondary
+[2021.04.16-08.31.29:899][278]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-08.31.29:900][278]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Secondary
+[2021.04.16-08.31.30:553][291]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2021.04.16-08.31.31:041][310]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-08.31.31:041][310]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Secondary
+[2021.04.16-08.31.31:362][324]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-08.31.31:363][324]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Secondary
+[2021.04.16-08.31.31:711][339]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-08.31.31:711][339]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Secondary
+[2021.04.16-08.31.33:264][393]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2021.04.16-08.31.33:696][410]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-08.31.33:696][410]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Secondary
+[2021.04.16-08.31.34:327][434]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-08.31.34:327][434]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Secondary
+[2021.04.16-08.31.34:788][443]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-08.31.34:789][443]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Secondary
+[2021.04.16-08.31.34:789][443]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2021.04.16-08.31.34:999][451]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-08.31.34:999][451]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Secondary
+[2021.04.16-08.31.35:371][466]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2021.04.16-08.31.35:565][474]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-08.31.35:565][474]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Secondary
+[2021.04.16-08.31.35:733][481]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2021.04.16-08.31.35:866][486]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-08.31.35:866][486]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Secondary
+[2021.04.16-08.31.36:016][492]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hello
+[2021.04.16-08.31.38:336][566]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-08.31.38:336][566]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Secondary2
+[2021.04.16-08.32.10:859][656]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-08.32.11:594][671]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Current
+[2021.04.16-08.32.22:886][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.16-08.32.22:886][ 54]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.16-08.32.22:887][ 54]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.16-08.32.22:888][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.32.22:910][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.16-08.32.22:991][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.16-08.32.23:052][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.16-08.32.23:052][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.16-08.32.23:055][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.16-08.32.23:132][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2021.04.16-08.32.23:478][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.04.16-08.32.26:117][118]LogSlate: Window 'Message Log' being destroyed
+[2021.04.16-08.32.26:146][118]LogSlate: Window 'Message Log' being destroyed
+[2021.04.16-08.32.27:792][156]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2021.04.16-08.32.27:849][156]LogSavePackage: Moving '../../../../../../Github/Joker/Joker_LevelDesign/Saved/ThirdPersonExampleMap0D35D4AC4AF726BE190E1FB598FA2F41.tmp' to '../../../../../../Github/Joker/Joker_LevelDesign/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.04.16-08.32.27:899][156]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.04.16-08.32.27:899][156]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.04.16-08.33.15:887][754]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2021.04.16-08.33.35:684][156]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/AnimOffset/Combat.Combat
+[2021.04.16-08.33.35:700][156]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.16-08.33.36:535][156]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Joker_Skeleton, removing AnimBP from actor.
+[2021.04.16-08.33.36:824][156]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.04.16-08.33.52:164][402]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/Joker_Skeleton.Joker_Skeleton
+[2021.04.16-08.33.52:196][402]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.16-08.35.45:291][198]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
