@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Joker_LevelDesign/Saved/Logs/Joker_LevelDesign.log
+Joker_LevelDesign/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Joker_LevelDesign/Saved/Config/CrashReportClient/UE4CC-Windows-CC1378FE44E5D7F24E62AFBFE5BE3313/CrashReportClient.ini
+Joker_LevelDesign/Intermediate/CachedAssetRegistry.bin
