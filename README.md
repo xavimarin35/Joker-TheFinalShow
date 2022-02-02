@@ -13,7 +13,7 @@ There are different paths that take you to the two bombs that you must plant, bu
 ### Discolsure
 We do not own any of the assets used for the game. Authors credited below.
 
-* 3D modelling:
+* 3D models:
   * Joker - [AsterOmice](https://skfb.ly/6X6CR)
   * Weapons - [Epic Games Marketplace](https://bit.ly/3gziFl0)
   * Environment 1 - [Epic Games Marketplace](https://bit.ly/2Qj9nz3)
@@ -22,7 +22,7 @@ We do not own any of the assets used for the game. Authors credited below.
   * Environment 4 - [Epic Games Marketplace](https://bit.ly/2Qj9VF7)
   * Buildings - [aitortilla01](https://sketchfab.com/aitortilla01)
 
-* Animation:
+* Animations:
   * Animations Pack - [Epic Games Marketplace](https://bit.ly/2P6JTEn)
 
 ### License
