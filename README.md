@@ -8,7 +8,7 @@ There are different paths that take you to the two bombs that you must plant, bu
 
 ### Links
 * [Level Design Document](https://github.com/xavimarin35/Joker-TheFinalShow/raw/main/JokerTheFinalShow-LDD.pdf)
-* [Gameplay](https://youtu.be/CLY3SCVpeqE)
+* [Gameplay Video](https://youtu.be/CLY3SCVpeqE)
 
 ### Discolsure
 We do not own any of the assets used for the game. Authors credited below.
